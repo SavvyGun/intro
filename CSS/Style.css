@@ -1,0 +1,29 @@
+html.body{
+    background-color: darkcyan;
+}
+
+h1{
+    background-color: black;
+    color: red
+    font-size: 60px;
+}
+
+h1.azul{
+    color: aqua;
+    font-size: 35px;
+    font-family: 'Poppins';
+}
+
+h2.verde{
+    color: darkblue;
+}
+
+.fondo-aqua{
+    background-color: aqua;
+}
+
+#mulan{
+    margin-top: 50px;
+    border: 70px solid white;
+    
+}
